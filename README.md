@@ -5,3 +5,5 @@ LDO NRM
 RASENGAN 
 
 cristaline
+
+cc
